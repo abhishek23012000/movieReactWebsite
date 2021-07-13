@@ -1,7 +1,9 @@
-# Getting Started with Create React App
+# Link of this website.
+https://abhishek23012000.github.io/movieReactWebsite/
 
-##Link of this website.
-https://abhishek23012000.github.io/moviewebsite/
+
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
